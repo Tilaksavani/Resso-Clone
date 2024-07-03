@@ -1,4 +1,4 @@
-# Simple Resšo Music Player Clone
+# Simple Resšo Music Player Clone ♮♮
 
 This project is a basic recreation of the popular Resšo music player interface, focusing on the visual layout and core functionalities.
 
